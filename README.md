@@ -1,8 +1,8 @@
 # **Fitness Tracker**
 
 ## **Resources**
-Repo: https://github.com/charlottehulseman/fitness-tracker
-
+[Repository](https://github.com/charlottehulseman/fitness-tracker)
+[Deployed website](https://arcane-shelf-22376.herokuapp.com/)
 
 ## **Description**
 Easy-to-use exercise tracker that allows you to log and monitor your workout activity with a detailed dashboard, and add your exercise information.

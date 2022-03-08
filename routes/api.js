@@ -43,7 +43,7 @@ router.put("/api/workouts/:id", (req, res) => {
 });
 
 
-//cardio workoutss
+//cardio workouts
 router.get("/api/workouts/range", (req, res) => {
     Workout.aggregate([
         {

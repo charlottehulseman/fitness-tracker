@@ -5,7 +5,7 @@
 [Deployed website](https://arcane-shelf-22376.herokuapp.com/)
 
 ## **Description**
-Easy-to-use exercise tracker that allows you to log and monitor your workout activity with a detailed dashboard, and add your exercise information.
+Easy-to-use exercise tracker that allows you to log and monitor your workout activity with a detailed dashboard, and add your exercise information. Uses MongoDB to track inputs.
 
 ## **Usage Guide**
 Navigate to the link above to view the live site.

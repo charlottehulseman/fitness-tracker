@@ -1,4 +1,4 @@
-# **Fitness Tracker**
+# **NoSQL Fitness Tracker**
 
 ## **Resources**
 [Repository](https://github.com/charlottehulseman/fitness-tracker)
